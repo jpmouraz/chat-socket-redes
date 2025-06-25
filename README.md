@@ -60,7 +60,7 @@ python cliente.py
   
 📁 Repositório e Vídeo 
 •	Repositório GitHub: https://github.com/jpmouraz/chat-socket-redes#
-•	Demonstração no YouTube: 
+•	Demonstração no YouTube: https://www.youtube.com/watch?v=scTepdpybpo
   
 📌 Observações Finais 
 Este projeto reforça conceitos importantes de redes, como: 
