@@ -59,8 +59,8 @@ python cliente.py
 •	A troca de dados é feita em tempo real via TCP/IP. 
   
 📁 Repositório e Vídeo 
-•	Repositório GitHub: https://github.com/seu-usuario/chat-simples-tcp 
-•	Demonstração no YouTube: https://youtube.com/seu-link 
+•	Repositório GitHub: https://github.com/jpmouraz/chat-socket-redes#
+•	Demonstração no YouTube: 
   
 📌 Observações Finais 
 Este projeto reforça conceitos importantes de redes, como: 
