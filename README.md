@@ -8,7 +8,7 @@ FUNCIONALIDADES:
   - Identificação de cada usuário por apelido.
   - Comando /sair para encerrar a conexão do cliente.
 Mensagens são transmitidas para todos os clientes conectados.
-COMO EXECUTAR:
+ - COMO EXECUTAR:
   Inicie o servidor:
     Abra um ou mais terminais e execute o cliente:
       Digite um apelido e envie mensagens para o chat.
